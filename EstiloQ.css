@@ -1,0 +1,40 @@
+.mx-auto {font-size: 200%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: blanchedalmond;}
+    
+    .texto {font-size: 120%;
+    font-family:'Times New Roman', Times, serif;
+margin: 1%;
+max-width: 50%;
+position: relative;
+left: 20%;}
+
+.texto2 {font-size: 120%;
+    font-family:'Times New Roman', Times, serif;
+max-width: 80%;
+position: absolute;
+left: 10%;}
+
+.titulo2 {font-size: 200%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: blanchedalmond;}
+
+.imagenx {position:absolute;
+    bottom: 28%;
+    left: 72%;
+    width: 18%;
+border-radius: 5%;}
+
+.imagen1 {position: relative;
+    left: 5%;
+    width: 30%;
+    margin: 0.3%;}
+    
+    .imagen2 {position: relative;
+        left: 35%;
+        width: 30%;}
+    
+        .imagen3 {position: relative;
+            left: -25%;
+            width: 29%;}
+    
